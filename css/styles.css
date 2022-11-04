@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.card {
+  width: 80%;
+  border: 3px solid teal;
+  padding: 1rem;
+  margin: 10px auto 10px auto;
+}
